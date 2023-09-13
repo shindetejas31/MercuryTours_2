@@ -1,0 +1,26 @@
+[DEBUG] 2023-09-10 23:16:01.778 [TestNG-tests-2] LoginTest - Browser and URL got launched
+[DEBUG] 2023-09-10 23:16:02.018 [TestNG-tests-2] LoginTest - Email got entered
+[DEBUG] 2023-09-10 23:16:02.192 [TestNG-tests-2] LoginTest - PW got Entered
+[DEBUG] 2023-09-10 23:16:04.433 [TestNG-tests-2] LoginTest - Clicked on submit button
+[DEBUG] 2023-09-10 23:16:04.517 [TestNG-tests-2] LoginTest - User logged in
+[INFO ] 2023-09-10 23:16:04.987 [TestNG-tests-2] LoginTest - Login test got passed
+[DEBUG] 2023-09-10 23:16:05.945 [TestNG-tests-2] LoginTest - Browser got closed
+[DEBUG] 2023-09-10 23:16:12.867 [TestNG-tests-2] LoginTest - Browser and URL got launched
+[DEBUG] 2023-09-10 23:16:12.998 [TestNG-tests-2] LoginTest - Email got entered
+[DEBUG] 2023-09-10 23:16:13.136 [TestNG-tests-2] LoginTest - PW got Entered
+[DEBUG] 2023-09-10 23:16:14.254 [TestNG-tests-2] LoginTest - Clicked on submit button
+[DEBUG] 2023-09-10 23:16:24.306 [TestNG-tests-2] LoginTest - User didn't logged in
+[DEBUG] 2023-09-10 23:16:24.842 [TestNG-tests-2] LoginTest - Browser got closed
+[DEBUG] 2023-09-13 21:23:54.038 [TestNG-tests-2] LoginTest - Browser and URL got launched
+[DEBUG] 2023-09-13 21:23:54.574 [TestNG-tests-2] LoginTest - Email got entered
+[DEBUG] 2023-09-13 21:23:54.750 [TestNG-tests-2] LoginTest - PW got Entered
+[DEBUG] 2023-09-13 21:23:57.760 [TestNG-tests-2] LoginTest - Clicked on submit button
+[DEBUG] 2023-09-13 21:23:59.002 [TestNG-tests-2] LoginTest - User logged in
+[INFO ] 2023-09-13 21:23:59.005 [TestNG-tests-2] LoginTest - Login test got passed
+[DEBUG] 2023-09-13 21:23:59.652 [TestNG-tests-2] LoginTest - Browser got closed
+[DEBUG] 2023-09-13 21:24:07.339 [TestNG-tests-2] LoginTest - Browser and URL got launched
+[DEBUG] 2023-09-13 21:24:07.522 [TestNG-tests-2] LoginTest - Email got entered
+[DEBUG] 2023-09-13 21:24:07.708 [TestNG-tests-2] LoginTest - PW got Entered
+[DEBUG] 2023-09-13 21:24:08.790 [TestNG-tests-2] LoginTest - Clicked on submit button
+[DEBUG] 2023-09-13 21:24:18.853 [TestNG-tests-2] LoginTest - User didn't logged in
+[DEBUG] 2023-09-13 21:24:19.617 [TestNG-tests-2] LoginTest - Browser got closed
